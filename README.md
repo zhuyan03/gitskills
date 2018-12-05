@@ -1,2 +1,3 @@
 # gitskills
-www.hahack.com/codes/cmake/
+
+# one website for cmake learning:www.hahack.com/codes/cmake/
